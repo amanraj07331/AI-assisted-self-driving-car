@@ -1,0 +1,20 @@
+# Python and Environment
+.conda/
+.vscode/
+__pycache__/
+*.egg-info/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints
+
+# Data and Models (these are usually too large)
+# We will handle essential models with Git LFS later
+data/
+saved_models/
+model_training/
+*.pt
+*.ckpt
+
+# OS-specific files
+.DS_Store
+Thumbs.db
