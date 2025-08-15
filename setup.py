@@ -36,7 +36,7 @@ setup(
             'run_steering=src.inference.run_steering_angle_prediction:main'
         ]
     },
-    author='Balaij Chippada',
+    author='Aman Raj',
     description='A self-driving car project using computer vision and deep learning models',
     license='MIT',
     classifiers=[
