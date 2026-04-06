@@ -22,7 +22,7 @@ Core Deep Learning Frameworks:
 
 TensorFlow 1.x: For building and training the steering angle regression model.
 
-Ultralytics YOLOv8: For training the lane segmentation model and for object detection.
+Yollo 11: For training the lane segmentation model and for object detection.
 
 Computer Vision & Data Processing:
 
