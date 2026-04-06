@@ -6,9 +6,9 @@ The core of this project is a multi-model system designed to replicate the key v
 
 1. Steering Angle Prediction: A Convolutional Neural Network (CNN), inspired by NVIDIA's DAVE-2 model, predicts the correct steering angle by analyzing the road ahead.
 
-2. Lane Segmentation: A fine-tuned YOLOv8 segmentation model identifies and highlights the drivable lanes on the road.
+2. Lane Segmentation: A fine-tuned YOLLO 11 segmentation model identifies and highlights the drivable lanes on the road.
 
-3. Object Detection: A pre-trained YOLOv8 segmentation model detects and masks various objects, such as other vehicles, to provide environmental awareness.
+3. Object Detection: A pre-trained YOLLO 11 segmentation model detects and masks various objects, such as other vehicles, to provide environmental awareness.
 
 The final output is a real-time visualization showing the car's camera feed, the combined segmentation overlay, and an animated steering wheel that reflects the model's predictions.
 
